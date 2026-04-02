@@ -15,4 +15,4 @@ I am currently **58% through the IBM Data Science Professional Certificate** pro
 *End-to-end data science portfolio featuring real-world projects in data wrangling, exploratory data analysis, regression modeling, and model evaluation.*
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcastro-ai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcastro-ai/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/robertocastro7)
