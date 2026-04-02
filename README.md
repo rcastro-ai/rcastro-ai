@@ -2,7 +2,7 @@
 
 **Data Science | Python, SQL, Machine Learning, Predictive Modeling**
 
-I am currently **58% through the IBM Data Science Professional Certificate** program, applying data science techniques to real-world datasets using SQL, Python, and predictive modeling.
+I am currently **58% through the IBM Data Science Professional Certificate** program, applying data science techniques to real-world datasets using Python, SQL, and predictive modeling.
 
 ## 🚀 My Professional Progress
 - 📊 **Current Milestone:** 7 / 12 Courses (Currently taking Course 8: Data Visualization with Python)
@@ -11,7 +11,7 @@ I am currently **58% through the IBM Data Science Professional Certificate** pro
 
 ---
 ## 📁 Featured Projects
-### [Data Science Portfolio - IBM Projects](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects)
+### [Data Science Portfolio - IBM Professional Certificate Projects](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects)
 *End-to-end data science portfolio featuring real-world projects in data wrangling, exploratory data analysis, regression modeling, and model evaluation.*
 
 ## 📫 Connect with me
