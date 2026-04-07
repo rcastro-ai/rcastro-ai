@@ -14,5 +14,11 @@ I am currently **66% through the IBM Data Science Professional Certificate** pro
 ### [Data Science Portfolio - IBM Professional Certificate Projects](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects)
 *End-to-end data science portfolio featuring real-world projects in data wrangling, exploratory data analysis, regression modeling, and model evaluation.*
 
+<p align="center">
+  <a href="https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects">
+    <img src="./images/data-science-repo-image.png" width="600" alt="Data Science Portfolio Dashboard">
+  </a>
+</p>
+
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcastro-ai/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/robertocastro7)
