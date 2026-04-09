@@ -5,7 +5,7 @@
 I am currently **66% through the IBM Data Science Professional Certificate** program, applying data science techniques to real-world datasets using Python, SQL, and predictive modeling.
 
 ## 🚀 My Professional Progress
-- 📊 **Current Milestone:** 8 / 12 Courses (*Will start Machine Learning with Python soon*)
+- 📊 **Current Milestone:** 8 / 12 Courses (*Currently taking Machine Learning with Python: KNN, Decision Trees, & Model Optimization*)
 - 🔭 **Technical Focus:** Regression Modeling, EDA, Model Evaluation, Machine Learning Pipelines
 - 🔍 **Core Toolkit:** Python (Pandas, scikit-learn), SQL, Plotly/Dash, Git/GitHub
 
