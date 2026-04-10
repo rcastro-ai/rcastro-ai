@@ -2,7 +2,8 @@
 
 **Data Science | Python, SQL, Machine Learning, Predictive Modeling**
 
-I am currently **66% through the IBM Data Science Professional Certificate** program, applying data science techniques to real-world datasets using Python, SQL, and predictive modeling.
+IT professional transitioning into data science, applying Python, SQL, and machine learning to real-world datasets through end-to-end projects focused on analysis, modeling, and evaluation.
+Currently 66% through the IBM Data Science Professional Certificate, building hands-on experience in predictive modeling and data-driven problem solving.
 
 ## 🚀 My Professional Progress
 - 📊 **Current Milestone:** 8 / 12 Courses (*Currently taking Machine Learning with Python: KNN, Decision Trees, & Model Optimization*)
