@@ -15,15 +15,15 @@ Currently 66% through the IBM Data Science Professional Certificate, building ha
 
 ### 🚗 Automobile Sales Dashboard (Plotly Dash)
 Interactive dashboard analyzing 30 years of automotive sales data, highlighting recession impacts and long-term market trends.  
-[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py)
+[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py)
 
 ### 📊 House Price Prediction Model
 Built and evaluated regression models using cross-validation, Ridge regression, and feature engineering to improve pricing accuracy.  
-[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb)
+[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb)
 
 ### 📡 Telecom Customer Classification (KNN)
 Developed a classification model with feature scaling and hyperparameter tuning to optimize customer segmentation predictions.  
-[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/09-Machine-Learning-with-Python/telecom-customer-classification-with-knn.ipynb)
+[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/telecom-customer-classification-with-knn.ipynb)
 
 🔗 **Full Portfolio:**
 [Data Science Portfolio Repository](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects) <br>
