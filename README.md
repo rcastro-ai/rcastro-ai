@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roberto Castro 
 
-**Data Science | Python, SQL, Machine Learning, Predictive Modeling**
+**Data Science | Python, SQL, EDA, Machine Learning, Predictive Modeling**
 
 IT professional transitioning into data science, applying Python, SQL, and machine learning to real-world datasets through end-to-end projects focused on analysis, modeling, and evaluation.
 Currently 66% through the IBM Data Science Professional Certificate, building hands-on experience in predictive modeling and data-driven problem solving.
