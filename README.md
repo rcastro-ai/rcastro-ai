@@ -15,7 +15,7 @@ Currently 66% through the IBM Data Science Professional Certificate, building ha
 
 ### 🚗 Automobile Sales Dashboard (Plotly Dash)
 Interactive dashboard analyzing 30 years of automotive sales data, highlighting recession impacts and long-term market trends.  
-[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py)
+[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py) | [View Live App](https://rcastro.pythonanywhere.com/)
 
 ### 📊 House Price Prediction Model
 Built and evaluated regression models using cross-validation, Ridge regression, and feature engineering to improve pricing accuracy.  
