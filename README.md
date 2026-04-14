@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Roberto Castro 
 
-**Data Science | Python, SQL, EDA, Machine Learning, Predictive Modeling**
+**Data Science | Python, SQL, Machine Learning | EDA, Model Evaluation, Predictive Modeling**
 
 IT professional transitioning into data science, applying Python, SQL, and machine learning to real-world datasets through end-to-end projects focused on analysis, modeling, and evaluation.  
 
-Currently 66% through the IBM Data Science Professional Certificate, building hands-on experience in predictive modeling and data-driven problem solving.
+Currently 66% through the IBM Data Science Professional Certificate, building hands-on experience in predictive modeling, model evaluation, and data-driven problem solving.
 
 ## 🚀 My Professional Progress
 - 📊 **Current Milestone:** 8 / 12 Courses (*Currently taking Machine Learning with Python: KNN, Decision Trees, & Model Optimization*)
@@ -19,7 +19,7 @@ Interactive dashboard analyzing 30+ years of automotive sales data, enabling dyn
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py) | [View Live Dashboard](https://rcastro.pythonanywhere.com/)
 
 ### 📊 House Price Prediction Model
-Built and evaluated regression models using cross-validation, Ridge regression, and feature engineering to improve pricing accuracy. <br>
+Built and evaluated regression models using cross-validation, Ridge regression, and feature engineering to improve pricing accuracy and reduce overfitting. <br>
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb)
 
 ### 📡 Telecom Customer Classification (KNN)
