@@ -7,7 +7,7 @@ IT professional transitioning into data science, applying Python, SQL, and machi
 Currently 66% through the IBM Data Science Professional Certificate, building hands-on experience in predictive modeling, model evaluation, and data-driven problem solving.
 
 ## 🚀 My Professional Progress
-- 📊 **Current Milestone:** 8 / 12 Courses (*Currently taking Machine Learning with Python: Model Evaluation & Validation (Module 5)*)
+- 📊 **Current Milestone:** 8 / 12 Courses (*Currently taking Machine Learning with Python: Module 6 - Final Project and Exam*)
 - 🔭 **Technical Focus:** Regression Modeling, EDA, Model Evaluation, Machine Learning Pipelines
 - 🔍 **Core Toolkit:** Python (Pandas, scikit-learn), SQL, Plotly/Dash, Git/GitHub
 
