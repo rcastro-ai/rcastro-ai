@@ -26,7 +26,7 @@ Built and evaluated regression models using cross-validation, Ridge regression, 
 Developed a classification model with feature scaling and hyperparameter tuning to optimize customer segmentation predictions. <br>
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/telecom-customer-classification-with-knn.ipynb)
 
-🔗 **Full Portfolio:**
+### 🔗 **Full Portfolio**
 [Data Science Portfolio Repository](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects) <br>
 *End-to-end data science portfolio featuring real-world projects in data wrangling, exploratory data analysis, regression modeling, and model evaluation.*
 
