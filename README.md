@@ -18,13 +18,13 @@ Currently 75% through the IBM Data Science Professional Certificate, building ha
 Interactive dashboard analyzing 30+ years of automotive sales data, enabling dynamic exploration of recession impacts, vehicle-type trends, and macroeconomic market behavior. Implemented using Plotly Dash with dynamic callbacks for real-time data filtering and visualization. <br>
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py) | [View Live Dashboard](https://rcastro.pythonanywhere.com/)
 
+### 🌧️ Rain Predictor Classifier
+Built a high-accuracy classification model to predict rainfall using 10+ years of Australian weather data. <br>
+[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/rain-predictor-final-project.ipynb) | [View on Kaggle](https://www.kaggle.com/code/robertocastro7/rainfall-predictor-classifier)
+
 ### 📊 House Price Prediction Model
 Built and evaluated regression models using cross-validation, Ridge regression, and feature engineering to improve pricing accuracy and reduce overfitting. <br>
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb)
-
-### 🌧️ Rain Predictor Classifier
-Built a high-accuracy classification model to predict rainfall using 10+ years of Australian weather data. <br>
-[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/telecom-customer-classification-with-knn.ipynb)
 
 ### 🔗 **Full Portfolio**
 [Data Science Portfolio Repository](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects) <br>
