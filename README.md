@@ -22,8 +22,8 @@ Interactive dashboard analyzing 30+ years of automotive sales data, enabling dyn
 Built and evaluated regression models using cross-validation, Ridge regression, and feature engineering to improve pricing accuracy and reduce overfitting. <br>
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb)
 
-### 📡 Telecom Customer Classification (KNN)
-Developed a classification model with feature scaling and hyperparameter tuning to optimize customer segmentation predictions. <br>
+### 🌧️ Rain Predictor Classifier
+Built a high-accuracy classification model to predict rainfall using 10+ years of Australian weather data. <br>
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/telecom-customer-classification-with-knn.ipynb)
 
 ### 🔗 **Full Portfolio**
