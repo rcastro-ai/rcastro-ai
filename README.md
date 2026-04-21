@@ -19,7 +19,7 @@ Interactive dashboard analyzing 30+ years of automotive sales data, enabling dyn
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/08-Data-Visualization-with-Python/Automobile-Sales-Part-2.py) | [View Live Dashboard](https://rcastro.pythonanywhere.com/)
 
 ### 🌧️ Rain Predictor Classifier
-Built a high-accuracy classification model to predict rainfall using 10+ years of Australian weather data. <br>
+Comparative study of Random Forest, SVM, and Logistic Regression optimized for class imbalance to predict rainfall using 10+ years of Australian weather data. <br>
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/rain-predictor-final-project.ipynb) | [View on Kaggle](https://www.kaggle.com/code/robertocastro7/rainfall-predictor-classifier)
 
 ### 📊 House Price Prediction Model
