@@ -6,13 +6,17 @@ IT professional transitioning into data science, applying Python, SQL, and machi
 
 Currently 83% through the IBM Data Science Professional Certificate, building hands-on experience in predictive modeling, model evaluation, and data-driven problem solving.
 
-## 🚀 My Professional Progress
+## 🎓 My Professional Progress
 - 📊 **Current Milestone:** 10 / 12 Courses (*Starting Course 11 - Generative AI: Elevate Your Data Science Career - on April 29th, 2026*)
 - 🔭 **Technical Focus:** Regression Modeling, EDA, Model Evaluation, Machine Learning Pipelines
 - 🔍 **Core Toolkit:** Python (Pandas, scikit-learn), SQL, Plotly/Dash, Git/GitHub
 
 ---
 ## 📁 Featured Projects
+
+### 🚀 Falcon 9 First-Stage Landing Predictor
+Developed an end-to-end machine learning pipeline to predict the success of SpaceX booster recoveries. Integrated data from the SpaceX REST API and Wikipedia (Web Scraping), performed EDA via SQL and Folium, and built an interactive Plotly Dash application. The final model suite achieved **83.3%** accuracy, providing a data-driven framework for cost-reduction analysis in reusable aerospace technology. <br>
+[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/10-Applied-Data-Science-Capstone)
 
 ### 🚗 Automobile Sales Dashboard (Plotly Dash)
 Interactive dashboard analyzing 30+ years of automotive sales data, enabling dynamic exploration of recession impacts, vehicle-type trends, and macroeconomic market behavior. Implemented using Plotly Dash with dynamic callbacks for real-time data filtering and visualization. <br>
@@ -21,10 +25,6 @@ Interactive dashboard analyzing 30+ years of automotive sales data, enabling dyn
 ### 🌧️ Rain Predictor Classifier
 Comparative study of Random Forest, SVM, and Logistic Regression optimized for class imbalance to predict rainfall using 10+ years of Australian weather data. <br>
 [View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/rain-predictor-final-project.ipynb) | [View on Kaggle](https://www.kaggle.com/code/robertocastro7/rainfall-predictor-classifier)
-
-### 📊 House Price Prediction Model
-Built and evaluated regression models using cross-validation, Ridge regression, and feature engineering to improve pricing accuracy and reduce overfitting. <br>
-[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/07-Data-Analysis-with-Python/Model-Evaluation-and-Refinement-House-Pricing.ipynb)
 
 ### 🔗 **Full Portfolio**
 [Data Science Portfolio Repository](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects) <br>
