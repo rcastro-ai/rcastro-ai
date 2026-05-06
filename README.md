@@ -24,7 +24,7 @@ Interactive dashboard analyzing 30+ years of automotive sales data, enabling dyn
 
 ### 🌧️ Rain Predictor Classifier
 Comparative study of Random Forest, SVM, and Logistic Regression optimized for class imbalance to predict rainfall using 10+ years of Australian weather data. <br>
-[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/rain-predictor-final-project.ipynb) | [View on Kaggle](https://www.kaggle.com/code/robertocastro7/rainfall-predictor-classifier)
+[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/09-Machine-Learning-with-Python/rainfall-prediction-model.ipynb) | [View on Kaggle](https://www.kaggle.com/code/robertocastro7/rainfall-predictor-classifier)
 
 ### 🔗 **Full Portfolio**
 [Data Science Portfolio Repository](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects) <br>
