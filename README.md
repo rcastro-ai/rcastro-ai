@@ -16,7 +16,7 @@ Currently 83% through the IBM Data Science Professional Certificate, building ha
 
 ### 🚀 Falcon 9 First-Stage Landing Predictor
 Developed an end-to-end machine learning pipeline to predict the success of SpaceX booster recoveries. Integrated data from the SpaceX REST API and Wikipedia (Web Scraping), performed EDA via SQL and Folium, and built an interactive Plotly Dash application. The final model suite achieved **83.3%** accuracy, providing a data-driven framework for cost-reduction analysis in reusable aerospace technology. <br>
-[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/10-Applied-Data-Science-Capstone)
+[View Project](https://github.com/rcastro-ai/Data-Science-Portfolio-IBM-Professional-Certificate-Projects/blob/main/10-Applied-Data-Science-Capstone/falcon9-project)
 
 ### 🚗 Automobile Sales Dashboard (Plotly Dash)
 Interactive dashboard analyzing 30+ years of automotive sales data, enabling dynamic exploration of recession impacts, vehicle-type trends, and macroeconomic market behavior. Implemented using Plotly Dash with dynamic callbacks for real-time data filtering and visualization. <br>
