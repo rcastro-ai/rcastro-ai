@@ -7,7 +7,7 @@ IT professional transitioning into data science, applying Python, SQL, and machi
 Completed the IBM Data Science Professional Certificate in May, 2026, building hands-on experience in predictive modeling, model evaluation, and data-driven problem solving.
 
 ## 🎓 My Professional Progress
-- 📊 **Current Milestone:** IBM Data Science Professional Certificate - May, 2026
+- 📊 **Recent Milestone:** IBM Data Science Professional Certificate - May, 2026
 - 🔭 **Technical Focus:** Regression Modeling, EDA, Model Evaluation, Machine Learning Pipelines
 - 🔍 **Core Toolkit:** Python (Pandas, scikit-learn), SQL, Plotly/Dash, Git/GitHub
 
